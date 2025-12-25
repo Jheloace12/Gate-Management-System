@@ -1,0 +1,7 @@
+{
+  "name": "SecurePass Gate Management",
+  "description": "A comprehensive gatepass management system featuring visitor registration, multi-role access (Admin, Security, Visitor), AI-powered purpose validation, and real-time entry/exit tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
